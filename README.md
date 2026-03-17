@@ -103,7 +103,7 @@ For more details (Installation, Usage, and so on), please check out the [feature
 
 ## About
 
-docext is developed by [Nanonets](https://nanonets.com), a leader in document AI and intelligent document processing solutions. Nanonets is committed to advancing the field of document understanding through open-source contributions and innovative AI technologies. If you are looking for information extraction solutions for your business, please visit [our website](https://nanonets.com) to learn more.
+docext is developed by [Nanonets](https://nanonets.com/document-parsing-and-extraction), a leader in document AI and intelligent document processing solutions. Nanonets is committed to advancing the field of document understanding through open-source contributions and innovative AI technologies. If you are looking for information extraction solutions for your business, please visit [our website](https://nanonets.com/document-parsing-and-extraction) to learn more.
 
 ## Contributing
 
